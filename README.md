@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samoN1k0la
 - 👀 I’m interested in Computer Science and Video Games
-- 🌱 I’m currently learning networking, digital electronics, and C
+- 🌱 I’m currently learning ethical hacking (mostly privilege escalation and enumeration)
 - 📫 You can reach me at my email: nikola400lukic@gmail.com
 
 <!---
