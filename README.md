@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samoN1k0la
-- 👀 I’m interested in Computer Science and Video Games
-- 🌱 I’m currently learning ethical hacking (mostly privilege escalation and enumeration)
-- 📫 You can reach me at my email: nikola400lukic@gmail.com
+- 👀 Interested in analog electronics, IoT, DevOps and penetration testing.
+- 🌱 Currently learning TypeScript, Nest and mastering my penetration testing skills.
+- 📫 Reach me at my email: nikola400lukic@gmail.com
 
 <!---
 samoN1k0la/samoN1k0la is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
