@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @samoN1k0la
+- 👋 Hi, I’m @samoN1k0la a.k.a L8k1c9c on TryHackMe.
 - 👀 Interested in analog electronics, IoT, DevOps and penetration testing.
-- 🌱 Currently learning TypeScript, Nest and mastering my penetration testing skills.
-- 📫 Reach me at my email: nikola400lukic@gmail.com
+- 🌱 Currently learning TypeScript and mastering my penetration testing skills.
 
 <!---
 samoN1k0la/samoN1k0la is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
